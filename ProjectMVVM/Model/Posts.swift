@@ -1,9 +1,3 @@
-//
-//  Posts.swift
-//  ProjectMVVM
-//
-//  Created by Linder Anderson Hassinger Solano    on 22/04/22.
-//
 
 import Foundation
 

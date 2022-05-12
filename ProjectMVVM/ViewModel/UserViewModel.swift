@@ -1,9 +1,3 @@
-//
-//  UserViewModel.swift
-//  ProjectMVVM
-//
-//  Created by MAC32 on 11/05/22.
-//
 
 import Foundation
 
